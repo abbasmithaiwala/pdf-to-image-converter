@@ -1,0 +1,4 @@
+name,description,bulk_price,media_1,media_2,media_3,media_4,media_5,media_6,media_7,media_8,preferred_supplier,cost_price,mrp,uom,set_size,moq,available_quantity
+Sample Product 1,A beautiful product description,100.00,https://dancerdancerdancer.com/cdn/shop/products/tee_black-1.jpg?v=1656575400&width=1946,,,,,,,,ABC Suppliers,80.00,120.00,pcs,12,24,100
+Sample Product 2,Another product description,150.00,https://media.istockphoto.com/id/471188329/photo/plain-red-tee-shirt-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=h1n990JR40ZFbPRDpxKppFziIWrisGcE_d9OqkLVAC4=,https://d1pdzcnm6xgxlz.cloudfront.net/tops/PM5010062-9.jpg,,,,,,,DK Suppliers,120.00,180.00,kg,1,5,50
+Sample Product 3,Product with minimal data,200.00,,,,,,,,,,,,,,,

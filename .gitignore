@@ -4,3 +4,4 @@ output
 __pycache__
 .env
 test_upload.csv
+products

@@ -3,3 +3,4 @@ output
 .venv
 __pycache__
 .env
+test_upload.csv
